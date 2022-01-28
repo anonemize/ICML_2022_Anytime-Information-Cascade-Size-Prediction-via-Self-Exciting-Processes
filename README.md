@@ -1,6 +1,6 @@
 # Anytime Information Cascade Size Prediction via Self-Exciting Processes
 
-This repository hosts code for the paper recently submitted to AISTATS 2022 titled "Anytime Information Cascade Size Prediction via Self-Exciting Processes".
+This repository hosts code for the paper recently submitted to ICML 2022 titled "Anytime Information Cascade Size Prediction via Self-Exciting Processes".
 
 ## Running the code
 
